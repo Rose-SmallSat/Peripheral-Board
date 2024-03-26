@@ -1,4 +1,4 @@
-(kicad_sch (version 20211123) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid d32fa59f-3214-466c-bfdc-8d7cf5e5a830)
 
@@ -8,11 +8,11 @@
   )
 
 
-  (hierarchical_label "5V" (shape input) (at 92.075 29.21 90)
+  (hierarchical_label "5V" (shape input) (at 92.075 29.21 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 13a57a90-1938-4418-84ee-7eb508d5197f)
   )
-  (hierarchical_label "PWM_CTL" (shape input) (at 82.55 39.37 180)
+  (hierarchical_label "PWM_CTL" (shape input) (at 82.55 39.37 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid c494a01f-4d2e-4bda-b4d0-c779d4e19cc1)
   )
