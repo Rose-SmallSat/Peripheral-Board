@@ -515,7 +515,7 @@
     (pin "2" (uuid 4f842c26-c47b-4c01-91fb-d379fd1a28f8))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -541,7 +541,7 @@
     (pin "2" (uuid 567b2e9f-4c2f-4f4d-8a52-dcff243c3a63))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -567,7 +567,7 @@
     (pin "2" (uuid 47e75c4c-c8aa-4f1a-8ae6-a8c1a1c462d0))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -593,7 +593,7 @@
     (pin "2" (uuid 938f0b04-7051-4f1d-8e1a-afd8d9705f20))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -619,7 +619,7 @@
     (pin "2" (uuid 30199046-d2fc-4fd5-97e9-a1bd464582fd))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -645,7 +645,7 @@
     (pin "2" (uuid 1b9eec16-1818-4884-8ee5-f035a583d2ea))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -670,7 +670,7 @@
     (pin "1" (uuid fcf3fbd2-d3a8-44e9-a7de-1611117ed702))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "#PWR?") (unit 1)
         )
       )
@@ -696,7 +696,7 @@
     (pin "2" (uuid ae29798d-3e7b-4208-b471-2514c4960bda))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -722,7 +722,7 @@
     (pin "2" (uuid 7eda4ea0-e017-423e-b113-896556b433e3))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -748,7 +748,7 @@
     (pin "2" (uuid adc95c07-da58-4148-be18-3efef4d57e69))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -774,7 +774,7 @@
     (pin "2" (uuid 4320df61-6fcc-4e0c-94ac-3facdadb9671))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -800,7 +800,7 @@
     (pin "2" (uuid 0e7770fc-5685-49da-a002-05d014555197))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -826,7 +826,7 @@
     (pin "2" (uuid 56ac7c06-967a-4f0f-a917-3a90db52a28c))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -852,7 +852,7 @@
     (pin "2" (uuid e478f888-5f9d-4d83-aea2-2567d3188281))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -878,7 +878,7 @@
     (pin "2" (uuid 3a0126dd-8582-4233-a589-e0e7c904e109))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -904,7 +904,7 @@
     (pin "2" (uuid c9f19c57-f272-4a11-8f3c-2ebdce6d3688))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )
@@ -930,7 +930,7 @@
     (pin "2" (uuid dce3150d-5277-4973-a722-12786899099b))
     (instances
       (project "SmallSat Peripheral Board Rev1"
-        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/7866e747-5597-41b7-9129-5de5a84ad4d1"
+        (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
           (reference "R?") (unit 1)
         )
       )

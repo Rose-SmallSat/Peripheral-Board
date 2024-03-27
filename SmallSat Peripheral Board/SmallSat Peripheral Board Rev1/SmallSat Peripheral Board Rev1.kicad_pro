@@ -342,12 +342,20 @@
       "ADCS Driver"
     ],
     [
-      "eb4390ea-75b6-4025-bb1f-7940eb9d3acb",
-      "Power"
+      "cdcba84c-d1ae-475a-8414-d19ba0d1d9b8",
+      "V_Regulation"
     ],
     [
-      "7866e747-5597-41b7-9129-5de5a84ad4d1",
-      "Sun Sensor Array"
+      "7bf1d263-38d0-46c5-9189-35603e03a2b0",
+      "Power Board Rev 1"
+    ],
+    [
+      "fa96851e-5abd-439c-b8ae-300fa8a6fb03",
+      "Sun Sensor Array1"
+    ],
+    [
+      "1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac",
+      "Peripherals"
     ]
   ],
   "text_variables": {}
