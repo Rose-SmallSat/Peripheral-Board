@@ -467,7 +467,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 450c5914-8514-4daa-9bbb-cb6c2185b18e)
   )
-  (hierarchical_label "3V3" (shape input) (at 140.97 69.215 90) (fields_autoplaced)
+  (hierarchical_label "5V" (shape input) (at 140.97 69.215 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 72fb6518-a886-4485-b7dd-8121ae3fceac)
   )
@@ -499,10 +499,10 @@
   (symbol (lib_id "Device:R") (at 154.305 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1135c25e-ed4c-49bc-b8d6-3eb966bddfb4)
-    (property "Reference" "R?" (at 156.845 78.1049 0)
+    (property "Reference" "R37" (at 156.21 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 156.845 80.6449 0)
+    (property "Value" "3k" (at 156.21 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 152.527 79.375 90)
@@ -516,7 +516,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R37") (unit 1)
         )
       )
     )
@@ -525,10 +525,10 @@
   (symbol (lib_id "Device:R") (at 114.935 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 19a2f0b0-e8d2-41f0-885d-67e95805a5cc)
-    (property "Reference" "R?" (at 117.475 78.1049 0)
+    (property "Reference" "R31" (at 116.84 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 117.475 80.6449 0)
+    (property "Value" "3k" (at 116.84 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 113.157 79.375 90)
@@ -542,7 +542,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )
@@ -551,10 +551,10 @@
   (symbol (lib_id "Device:R_Photo") (at 128.27 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 19bffa6d-16ce-4a60-8c7e-cbf428fd9ceb)
-    (property "Reference" "R?" (at 130.175 91.4399 0)
+    (property "Reference" "R34" (at 130.81 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 130.175 93.9799 0)
+    (property "Value" "10k" (at 130.81 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 129.54 99.06 90)
@@ -568,7 +568,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -577,10 +577,10 @@
   (symbol (lib_id "Device:R_Photo") (at 88.265 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4da0721b-d0a4-4073-ac14-ab3650a96902)
-    (property "Reference" "R?" (at 90.17 91.4399 0)
+    (property "Reference" "R28" (at 90.17 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 90.17 93.9799 0)
+    (property "Value" "10k" (at 90.17 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 89.535 99.06 90)
@@ -594,7 +594,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -603,10 +603,10 @@
   (symbol (lib_id "Device:R") (at 167.64 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 53d94c41-8195-4bdf-b816-c368e5935784)
-    (property "Reference" "R?" (at 170.18 78.1049 0)
+    (property "Reference" "R39" (at 170.18 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 170.18 80.6449 0)
+    (property "Value" "3k" (at 170.18 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 165.862 79.375 90)
@@ -620,7 +620,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R39") (unit 1)
         )
       )
     )
@@ -629,10 +629,10 @@
   (symbol (lib_id "Device:R_Photo") (at 101.6 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5cb0638f-9d20-4958-849f-f825823c2922)
-    (property "Reference" "R?" (at 103.505 91.4399 0)
+    (property "Reference" "R30" (at 104.14 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 103.505 93.9799 0)
+    (property "Value" "10k" (at 104.14 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 102.87 99.06 90)
@@ -646,7 +646,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -655,7 +655,7 @@
   (symbol (lib_id "power:GND") (at 140.97 100.965 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b1ff33f-831d-486b-b662-ce6fd2c732c6)
-    (property "Reference" "#PWR?" (at 140.97 107.315 0)
+    (property "Reference" "#PWR09" (at 140.97 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 140.97 105.41 0)
@@ -671,7 +671,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -680,10 +680,10 @@
   (symbol (lib_id "Device:R_Photo") (at 180.975 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d743fad-cf9c-4dc1-8100-405db46f8e90)
-    (property "Reference" "R?" (at 182.88 91.4399 0)
+    (property "Reference" "R42" (at 182.88 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 182.88 93.9799 0)
+    (property "Value" "10k" (at 182.88 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 182.245 99.06 90)
@@ -697,7 +697,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R42") (unit 1)
         )
       )
     )
@@ -706,10 +706,10 @@
   (symbol (lib_id "Device:R") (at 128.27 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7d6c6291-970b-4aa2-bb18-eb967957b89c)
-    (property "Reference" "R?" (at 130.81 78.1049 0)
+    (property "Reference" "R33" (at 130.81 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 130.81 80.6449 0)
+    (property "Value" "3k" (at 130.81 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 126.492 79.375 90)
@@ -723,7 +723,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
@@ -732,10 +732,10 @@
   (symbol (lib_id "Device:R_Photo") (at 114.935 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 890a56d7-d939-4235-9772-6e99cb454bff)
-    (property "Reference" "R?" (at 116.84 91.4399 0)
+    (property "Reference" "R32" (at 116.84 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 116.84 93.9799 0)
+    (property "Value" "10k" (at 116.84 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 116.205 99.06 90)
@@ -749,7 +749,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -758,10 +758,10 @@
   (symbol (lib_id "Device:R") (at 101.6 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9aff06a1-da28-41c3-84e8-056e8dad0993)
-    (property "Reference" "R?" (at 104.14 78.1049 0)
+    (property "Reference" "R29" (at 104.14 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 104.14 80.6449 0)
+    (property "Value" "3k" (at 104.14 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 99.822 79.375 90)
@@ -775,7 +775,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -784,10 +784,10 @@
   (symbol (lib_id "Device:R_Photo") (at 167.64 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e9ab71f-c4f2-421e-affa-ba2e7f841821)
-    (property "Reference" "R?" (at 169.545 91.4399 0)
+    (property "Reference" "R40" (at 170.18 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 169.545 93.9799 0)
+    (property "Value" "10k" (at 170.18 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 168.91 99.06 90)
@@ -801,7 +801,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R40") (unit 1)
         )
       )
     )
@@ -810,10 +810,10 @@
   (symbol (lib_id "Device:R_Photo") (at 140.97 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aee8e0e3-5337-411d-bbb8-070ffd66a618)
-    (property "Reference" "R?" (at 142.875 91.4399 0)
+    (property "Reference" "R36" (at 143.51 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 142.875 93.9799 0)
+    (property "Value" "10k" (at 143.51 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 142.24 99.06 90)
@@ -827,7 +827,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R36") (unit 1)
         )
       )
     )
@@ -836,10 +836,10 @@
   (symbol (lib_id "Device:R_Photo") (at 154.305 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bebf5474-dd8f-434b-b315-f4851d88dae5)
-    (property "Reference" "R?" (at 156.21 91.4399 0)
+    (property "Reference" "R38" (at 156.21 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Photo" (at 156.21 93.9799 0)
+    (property "Value" "10k" (at 156.21 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 155.575 99.06 90)
@@ -853,7 +853,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R38") (unit 1)
         )
       )
     )
@@ -862,10 +862,10 @@
   (symbol (lib_id "Device:R") (at 140.97 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c75bb12b-35b9-4337-8c53-a0dff062ef7d)
-    (property "Reference" "R?" (at 143.51 78.1049 0)
+    (property "Reference" "R35" (at 143.51 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 143.51 80.6449 0)
+    (property "Value" "3k" (at 143.51 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 139.192 79.375 90)
@@ -879,7 +879,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R35") (unit 1)
         )
       )
     )
@@ -888,10 +888,10 @@
   (symbol (lib_id "Device:R") (at 180.975 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cbae6a4f-1ea2-4845-a92c-6bc5002cc4de)
-    (property "Reference" "R?" (at 183.515 78.1049 0)
+    (property "Reference" "R41" (at 182.88 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 183.515 80.6449 0)
+    (property "Value" "3k" (at 182.88 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 179.197 79.375 90)
@@ -905,7 +905,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R41") (unit 1)
         )
       )
     )
@@ -914,10 +914,10 @@
   (symbol (lib_id "Device:R") (at 88.265 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e9a0b8ea-9855-4ccd-84bf-069a3c065a8b)
-    (property "Reference" "R?" (at 90.805 78.1049 0)
+    (property "Reference" "R16" (at 90.17 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (at 90.805 80.6449 0)
+    (property "Value" "3k" (at 90.17 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 86.487 79.375 90)
@@ -931,7 +931,7 @@
     (instances
       (project "SmallSat Peripheral Board Rev1"
         (path "/4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5/1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac/fa96851e-5abd-439c-b8ae-300fa8a6fb03"
-          (reference "R?") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
