@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SmallSat Peripheral Board Rev1.kicad_pro",
+    "filename": "ADCS_DRIVER_REV2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -312,18 +312,8 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "fix_passive_vals": false,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 0,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
-    "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -334,44 +324,24 @@
   },
   "sheets": [
     [
-      "4b2869f6-ba0a-41e7-b7f9-3a7debdfa4e5",
+      "35ce14cd-6e90-4712-bd1d-fb9cc252fa55",
       ""
     ],
     [
-      "a0e786ed-f045-417f-9ff8-026098ae9c3a",
-      "ADCS Driver"
+      "7ebcc599-f064-45af-9a2d-362cb228f940",
+      "ADCS_MCU"
     ],
     [
-      "cdcba84c-d1ae-475a-8414-d19ba0d1d9b8",
-      "V_Regulation"
-    ],
-    [
-      "7bf1d263-38d0-46c5-9189-35603e03a2b0",
-      "Power Board Rev 1"
-    ],
-    [
-      "fa96851e-5abd-439c-b8ae-300fa8a6fb03",
-      "Sun Sensor Array1"
-    ],
-    [
-      "1af0bbc2-201a-48a4-ab31-a1d5bd0e5fac",
-      "Peripherals"
-    ],
-    [
-      "018d5a8f-db94-4ab4-84f4-770810e8169c",
+      "5a3e4aea-6af4-43ee-aa09-3ddda88aabc7",
       "MOSFET_Driver"
     ],
     [
-      "a63f2194-f0ca-47ad-9cd8-886e75474a58",
+      "4adc3dce-6e26-4753-8857-aac077d17fe1",
       "MOSFETS"
     ],
     [
-      "25bbed14-f905-4437-b848-b3917bc1e63b",
+      "750df5cf-32a2-44cf-bac9-09d40d00d35c",
       "Crossover_Detection"
-    ],
-    [
-      "a6e7cd97-7862-4a73-a187-e3598d0e1019",
-      "ADCS_MCU"
     ]
   ],
   "text_variables": {}
