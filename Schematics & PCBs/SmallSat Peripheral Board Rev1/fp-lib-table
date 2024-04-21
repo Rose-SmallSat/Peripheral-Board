@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Peripheral_Footprints_Rev1")(type "KiCad")(uri "C:/Users/ausectj/git/Peripheral-Board/KiCAD Libraries/Peripheral_Board_Libraries/Peripheral_Footprints_Rev1.pretty")(options "")(descr ""))
+)
